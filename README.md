@@ -1,1 +1,1 @@
-# odin-recipes
+This project is an example of what I have learned so far in this course. Examples of what is to be seen in this project are links to different pages, back links, image linking, and overall structure of my html boilerplate
